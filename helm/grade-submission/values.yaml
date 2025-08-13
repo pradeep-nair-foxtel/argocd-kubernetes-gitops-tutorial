@@ -2,7 +2,7 @@ replicaCount: 4
 
 image:
   repository: rslim087/kubernetes-course-grade-submission-api
-  tag: stateless
+  tag: stateless-1
   pullPolicy: IfNotPresent
 
 service:
